@@ -7,8 +7,11 @@ Deployed: https://chilling-spirit-33217.herokuapp.com/
 ### Image of Home Page
 <img src="./public/images/homepage.png">
 
+### Image of Adding New Workout
+<img src="./public/images/addingworkout.png">
+
 ### Image of New Workout
 <img src="./public/images/workoutadded.png">
 
-### Image of Workout Stats
+### Image of Fitness Tracker Dashboard
 <img src="./public/images/stats.png">
