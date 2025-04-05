@@ -14,8 +14,8 @@ The application is built using Node.js, Express, and MongoDB with Mongoose for d
 * REST API: The app exposes RESTful endpoints to manage and fetch workout data.
 
 ## Technologies Used:
-* 
-Frontend:
+
+* Frontend:
     * HTML5
     * CSS3
     * JavaScript
