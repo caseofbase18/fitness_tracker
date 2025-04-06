@@ -34,9 +34,9 @@ The application is built using Node.js, Express, and MongoDB with Mongoose for d
 
 1. Clone the repository: 
     git clone https://github.com/caseofbase18/fitness_tracker.git
-2. Navigate into the project directory.
+2. Navigate into the project directory: 
     cd fitness_tracker
-3. Install dependencies.
+3. Install dependencies: 
     npm install
 
 ## Usage
